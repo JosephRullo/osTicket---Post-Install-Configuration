@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<h2>Step 1.</h2> We will begin the osTicket post intall configuration by logging on as the administrator we created in the previous tutorial (Please see the osTicket-Prerequisites and Installation tutorial for a detailed 
+<h2>Step 1.</h2> We will begin the osTicket post intall configuration by logging on as the administrator we created in the previous install (Please click (https://github.com/josephrullo/osTicket-Prerequisites-and-Installation) for a full tutorial.)
 <p>
 <p>
 <img src="https://imgur.com/dBwU7DL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
