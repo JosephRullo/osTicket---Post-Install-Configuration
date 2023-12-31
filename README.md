@@ -31,24 +31,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Step 1.</h2> We will begin the osTicket post intall configuration by logging on as the administrator we created in the previous install (Please click (https://github.com/josephrullo/osTicket-Prerequisites-and-Installation) for a full tutorial.)
 <p>
 <p>
+<img src="https://imgur.com/26HKTmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+
+<h2>Step 2.</h2> We will begin the osTicket post intall configuration by logging on as the administrator we created in the previous install (Please click (https://github.com/josephrullo/osTicket-Prerequisites-and-Installation) for a full tutorial.)
+<p>
+<p>
 <img src="https://imgur.com/dBwU7DL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
