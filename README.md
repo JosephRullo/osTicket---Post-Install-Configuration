@@ -38,10 +38,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 
-<h2>Step 2.</h2> Configuring Roles. Let's create a custom Role that we can assign to an Agent later on. From the Admin Panel homepage select the "Agents" tab -> Select "Roles" -> click on "Add New Role". Let's call name this role "Supreme Admin" for this example and grant it all permissions. To do this go to the "Permissions" tab to the right and check all boxes in the Tickets/Tasks/Knowledgebase tabs. Note you can fully customize this "Role" with any specific title and permission access you may require for an agent. Optional: Add internal notes about role. Now click "Add Role".
+<h2>Step 2.</h2> Configuring Roles. Let's create a custom Role that we can assign to an Agent later on. From the Admin Panel homepage select the "Agents" tab -> Select "Roles" -> click on "Add New Role". Let's name this role "Supreme Admin" for this example and grant it all permissions. To do this go to the "Permissions" tab to the right and check all boxes in the Tickets/Tasks/Knowledgebase tabs. Note you can fully customize this "Role" with any specific title and permission access you may require for an agent. Optional: Add internal notes about role. Now click "Add Role".
 <p>
 <p>
 <img src="https://imgur.com/jnPNXVS.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<h2>Step 3.</h2> Configuring Departments. Since tickets are routed through Departments in the help desk, there are many settings that can be set for each one. Here we will simply add a new Department with the default settings that we can adjust as neccessary later on. From the Admin Panel homepage select the "Agents" tab -> Select "Departments" -> click on "Add New Department". Let's name this Department "System Administrators" for this example. 
+<p>
+<p>
+<img src="https://imgur.com/QWbKgcc.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
