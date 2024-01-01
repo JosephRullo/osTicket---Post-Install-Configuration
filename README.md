@@ -83,10 +83,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<h2>Step 7.</h2> Adding New Users. Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. To add a new User
+<h2>Step 7.</h2> Adding New Users. Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. To add a new User you must switch over to the Agent Panet by selecting it in the upper right corner. Once on the Agent Panel -> Select the User tab -> Click Add User -> Enter in their name and email. I will create two Users for this tutorial (ie. Karen A. karen@osTicket.com, Ken B. ken@osTicket.com) 
 <p>
 <p>
 <img src="https://imgur.com/iU0HnNs.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<h2>Step 8.</h2> Registering Users. Since we required registration for Users to login and create tickets in Step 6, we will have to register the two we just added. Select the User and click on "Register" -> assign them a password -> click "Create Account".
+<p>
+<p>
+<img src="https://imgur.com/mbJw419.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/QEmwcgp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
