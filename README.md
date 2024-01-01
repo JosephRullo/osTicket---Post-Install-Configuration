@@ -64,3 +64,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 </p>
 <br />
+
+<h2>Step 5.</h2> Configuring Agents. Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Let's create two new Agents for this example. From the Admin Panel homepage select the "Agents" tab -> Select "Agents" -> click on "Add New Agent". Fill in the personal info fields, for this example I'll use Jane Doe and jane_doe@osTicket.com. Next create a "Username" ie. jane_doe. Click "Set Password" and uncheck the "Send agent a password reset email" so we can enter assign one directly. Uncheck "Require password change at next login" box and click "Set".
+<p>
+<p>
+<img src="https://imgur.com/1tP3l0h.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/I01IN6c.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/wmXSIQz.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/PcYl460.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
