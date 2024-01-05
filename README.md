@@ -152,10 +152,15 @@ Users are the ticket owners of the tickets in the help desk. When a ticket is cr
 </p>
 <br />
 
-<h2>Step 10.</h2> Registering Users. Since we required registration for Users to login and create tickets in Step 6, we will have to register the two we just added. Select the User and click on "Register" -> assign them a password -> click "Create Account".
+<h2>Step 10.</h2> 
+
+**Registering Users**
+<p>
+Since we required registration for Users to login and create tickets in Step 6, we will have to register the two we just added. Select the User and click on "Register" -> assign them a password -> click "Create Account".
 <p>
 <p>
-<img src="https://imgur.com/mbJw419.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/QEmwcgp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mbJw419.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/QEmwcgp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
