@@ -30,12 +30,15 @@
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
-
+<p>
+  
+** **Note** ** The configuration below is using the settings from the previous osTicket installation tutorial which you can find here (https://github.com/josephrullo/osTicket-Prerequisites-and-Installation)
+<p>
 <h2>Step 1.</h2> 
 
 **Logon osTicket as Administrator**
 <p>
-We will begin the osTicket post intall configuration by logging on as the administrator we created in the previous install. This will bring you to the Admin Panel homepage. (Please click (https://github.com/josephrullo/osTicket-Prerequisites-and-Installation) for a full osTicket installation tutorial)
+We will begin the osTicket post intall configuration by logging on as the administrator we created in the previous install. This will bring you to the Admin Panel homepage. 
 <p>
 <p>
 <img src="https://imgur.com/26HKTmF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
