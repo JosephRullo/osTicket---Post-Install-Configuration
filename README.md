@@ -177,7 +177,7 @@ Users are the ticket owners of the tickets in the help desk. When a ticket is cr
 
 **Registering Users**
 <p>
-Since we required registration for Users to login and create tickets in Step 6, we will have to register the two we just added. Select the User and click on "Register" -> assign them a password -> click "Create Account".
+Since we required registration for Users to login and create tickets in Step 6, we will have to register the two we just added. Select the User and click on "Register" -> uncheck the box next to "Send account activation email" -> assign them a password -> uncheck the box "Require password change on login" -> check "User cannot change password" click "Create Account". You can change these settings for what is appropriate for your business, this are just for the tutorial.
 <p>
 <p>
 <img src="https://i.imgur.com/r6ul48f.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
