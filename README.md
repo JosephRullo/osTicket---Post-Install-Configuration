@@ -187,4 +187,5 @@ Since we required registration for Users to login and create tickets in Step 6, 
 </p>
 <br />
 
-<h2> <p align="center"> Congratulations!</h2> This concludes the post installation and configuration of osTicket. Many more settings can be configured and changed at any time, but this will get things up and running. For more information on all osTicket has to offer please visit https://docs.osticket.com/en/latest/index.html
+<h2> <p align="center"> Congratulations!</h2>
+<p align="center"> This concludes the post installation and configuration of osTicket. Many more settings can be configured and changed at any time, but this will get things up and running. For more information on all osTicket has to offer please visit https://docs.osticket.com/en/latest/index.html
