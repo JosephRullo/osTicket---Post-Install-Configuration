@@ -120,8 +120,9 @@ Agents are given access to the help desk with the intent to respond and resolve 
 The purpose of the SLA (Service Level Agreement) Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. In the Admin Panel -> Select the Manage tab -> select the SLA tab. Here we will assign it a Name, a Grace Period (Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time), and a Schedule (Hours of operation for the Grace Period). For this tutorial, I will add three SLA's with varying severity levels and time constraints.
 <p>
 <p>
-<img src="https://imgur.com/iXpMxI3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/dhB3DCa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FVFVUiR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/35yv6u5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h0tQhtI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
