@@ -165,7 +165,9 @@ Before adding new Users, let's adjust the Authentication settings for either all
 Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. To add a new User you must switch over to the Agent Panet by selecting it in the upper right corner. Once on the Agent Panel -> Select the User tab -> Click Add User -> Enter in their name and email. I will create two Users for this tutorial (ie. Karen A. karen@osTicket.com, Ken B. ken@osTicket.com) 
 <p>
 <p>
-<img src="https://imgur.com/iU0HnNs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cikUT6z.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3Xkmsnt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wEySCaO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
