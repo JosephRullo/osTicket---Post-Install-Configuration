@@ -97,7 +97,7 @@ Teams allow you to pull Agents from different Departments and organize them to h
 
 **Configuring Agents**
 <p>
-Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Let's create two new Agents for this example. From the Admin Panel homepage select the "Agents" tab -> Select "Agents" -> click on "Add New Agent". Fill in the personal info fields, for this example I'll use Jane Doe and jane_doe@osTicket.com. Next create a "Username" ie. jane_doe. Click "Set Password" and uncheck the "Send agent a password reset email" so we can enter assign one directly. Uncheck "Require password change at next login" box and click "Set". With that set, we can now use the "Access" tab to assign a "Primary Department" and "Role" as discussed in previous steps. Next use the "Permissions" tab for grant or deny permissions. Finally use the "Teams" tab to add or remove them from any teams that were created. Click on "Create" when finished. I will create a second Agent named John Doe using the same steps outlined.
+Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Let's create two new Agents for this example. From the Admin Panel homepage select the "Agents" tab -> Select "Agents" -> click on "Add New Agent". Fill in the personal info fields, for this example I'll use Jane Doe and jane_doe@osTicket.com. Next create a "Username" ie. jane_doe. Click "Set Password" and uncheck the "Send agent a password reset email" so we can enter assign one directly. Uncheck "Require password change at next login" box and click "Set". With that set, we can now use the "Access" tab to assign a "Primary Department" and "Role" as discussed in previous steps. Next use the "Permissions" tab for grant or deny permissions. Finally use the "Teams" tab to add or remove them from any teams that were created. Click on "Create" when finished. I will create a second Agent named John Doe using the same steps outlined. Finally let's assign the Admin the proper "Role" and "Department" we setup in the previous steps. Click on the Admin from the "Agents" tab and make the necessary changes -> click "Save Changes".
 <p>
 <p>
 <img src="https://i.imgur.com/CI9deeC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
@@ -105,7 +105,9 @@ Agents are given access to the help desk with the intent to respond and resolve 
 <img src="https://i.imgur.com/oXjmHVy.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/g1jzUnF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DRt1QdM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Ok07wzI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/Ok07wzI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/MGIUIGM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/gRRPW2b.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 </p>
