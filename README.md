@@ -83,10 +83,11 @@ Since tickets are routed through Departments in the help desk, there are many se
 
 **Configuring Teams**
 <p>
-Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. From the Admin Panel homepage select the "Agents" tab -> Select "Teams" -> click on "Add New Team". Let's name this Team "Level II Support" for this example and leave the default settings for now.
+Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. From the Admin Panel homepage select the "Agents" tab -> Select "Teams" -> click on "Add New Team". Let's name this Team "Level II Support" for this example and leave the default settings for now -> click "Create Team".
 <p>
 <p>
-<img src="https://imgur.com/nlFMFJv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KBNSDuE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MIlUGco.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
