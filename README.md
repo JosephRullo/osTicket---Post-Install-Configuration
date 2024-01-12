@@ -152,7 +152,7 @@ Help Topics will determine what Department the ticket is routed to which will de
 Before adding new Users, let's adjust the Authentication settings for either allowing anonymous users to create tickets or requiring them to be registered in the system before they can do so. Go to the Settings tab on the Admin Panel window -> Select Users -> In Authentication Settings check or uncheck the box labeled "Require registration and login to create tickets" according to your preference. In this example it will be checked.
 <p>
 <p>
-<img src="https://imgur.com/GdPYIeQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eR3BuH5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
