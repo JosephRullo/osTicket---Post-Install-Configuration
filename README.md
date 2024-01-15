@@ -131,7 +131,7 @@ The purpose of the SLA (Service Level Agreement) Plan is to provide a length of 
 
 **Configure Help Topics**
 <p>
-Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low. Go to the "Manage" tab in the Admin Panel -> click "Add New Help Topic" -> assing a name in the "Topic" field -> Go to the "New Ticket Options" tab, here you can assign the appropriate "Priority" and "SLA Plan" -> Click "Save Changes". Settings for help topics can be changed at any time. In this example I created four new Help Topics: Business Critical Outage/Personal Computer Issues/Equipment Request/Password Reset.
+Help Topics will determine what Department the ticket is routed to, which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low. Go to the "Manage" tab in the Admin Panel -> select the "Help Topics" tab -> click "Add New Help Topic" -> assing a name in the "Topic" field -> Go to the "New Ticket Options" tab, here you can assign the appropriate "Priority" and "SLA Plan" -> Click "Save Changes". Settings for help topics can be changed at any time. In this example I created four new Help Topics: Business Critical Outage/Personal Computer Issues/Equipment Request/Password Reset.
 <p>
 <p>
 <img src="https://i.imgur.com/G2thkNe.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
