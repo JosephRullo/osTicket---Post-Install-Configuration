@@ -38,7 +38,7 @@
 
 **Logon osTicket as Administrator**
 <p>
-We will begin the osTicket post intall configuration by logging on as the administrator we created in the previous install. This will bring you to the Admin Panel homepage. 
+We will begin the osTicket post intall configuration by logging on as the Administrator we created in the previous install. This will bring you to the Admin Panel homepage. 
 <p>
 <p>
 <img src="https://imgur.com/26HKTmF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
@@ -56,8 +56,7 @@ We will begin the osTicket post intall configuration by logging on as the admini
 Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. Let's create a custom Role that we can assign to an Agent later on. From the Admin Panel homepage select the "Agents" tab -> Select "Roles" -> click on "Add New Role". Let's name this role "Supreme Admin" for this example and grant it all permissions. To do this go to the "Permissions" tab to the right and check all boxes in the Tickets/Tasks/Knowledgebase tabs. Note you can fully customize this "Role" with any specific title and permission access you may require for an agent. Optional: Add internal notes about role. Now click "Add Role" to save this change.
 <p>
 <p>
-<img src="https://i.imgur.com/arem76Z.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/03sIPAf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ynJrDTi.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/JlG8XPM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/6FOxY4Q.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
