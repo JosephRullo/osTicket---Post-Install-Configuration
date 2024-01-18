@@ -32,7 +32,7 @@
 <h2>Configuration Steps</h2>
 <p>
   
-** **Note** ** The configuration below is using the settings from the previous osTicket installation tutorial which you can find here (https://github.com/josephrullo/osTicket-Prerequisites-and-Installation)
+** **Note** ** The configuration below is using the settings from the previous osTicket installation tutorial which you can find here(https://github.com/josephrullo/osTicket-Prerequisites-and-Installation/blob/main/README.md
 <p>
 <h2>Step 1.</h2> 
 
